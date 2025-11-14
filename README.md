@@ -3,6 +3,6 @@
 [![Website Badge](https://img.shields.io/badge/-https://joshgrancell.com-ff7139?style=flat-square&labelColor=ff7139&logo=firefox&logoColor=white)](https://joshgrancell.com)
  [![Protonmail Badge](https://img.shields.io/badge/-josh@joshgrancell.com-8b89cc?style=flat-square&logo=protonmail&logoColor=white&link=mailto:josh@joshgrancell.com)](mailto:josh@joshgrancell.com)
 
-Hi! I'm Josh and I'm currently a Senior Site Reliability Engineer working at Blizzard Entertainment.
+Hi! I'm Josh. I write code. Sometimes it's good. Sometimes it's okay. But it's never javascript, so I've got that going for me.
 
-For more information about me and some of my projects, check out [my website](https://joshgrancell.com).
+For more information about me and some of my projects, check out [my website](https://joshgrancell.com). Feel free to reach out on slack or Linkedin if you aren't trying to sell me something or recruit me to your ponzi scheme.
